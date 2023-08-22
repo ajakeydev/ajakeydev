@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @ajakeydev
-I’m interested in NFL, PGA, and Technology
+I’m interested in NFL, PGA, and Technology.\n
 I’m currently learning front-end framework(s).
 I’m looking to collaborate on ## Whoa IDK yet.
 ## How to contact...?
