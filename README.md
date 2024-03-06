@@ -1,12 +1,33 @@
 # 👋 Hi, I’m @ajakeydev
-I’m interested in NFL, PGA, and Technology.<br>
-I’m currently learning front-end framework(s).<br>
-I’m looking to collaborate on **Whoa IDK** ***YET***. 😀
-```js
-console.log('I Love Pancakes!!!');
-```
+## I’m interested in:
+- NFL
+- PGA
+- Technology<br>
 ![Profile hits badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ajakeydev}1212%2Fhit-counter)
 
+## I'm currently learning
+- Intermediate JavaScript
+```js
+console.dir(window.document);
+```
+- Advanced JavaScript
+```js
+let i = new Promise((resolve, reject) => {
+    console.log('Love');
+    resolve();
+});
+i.then(() => console.log('Pancakes'));
+```
+- TypeScript
+```ts
+const iLove: string = 'Pancakes';
+```
+- Front-end framework(s)<br>
+```tty
+npx ng update @angular/core @angular/cli
+```
+
+I’m looking to collaborate on **Whoa IDK** ***YET***. 😀
 
 <!---
 ajakeydev/ajakeydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
