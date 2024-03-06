@@ -23,7 +23,8 @@ i.then(() => console.log('Pancakes'));
 const iLove: string = 'Pancakes';
 ```
 - Front-end framework(s)<br>
-```tty
+![Angular Framework Logo](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+```bash
 npx ng update @angular/core @angular/cli
 ```
 
