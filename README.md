@@ -27,7 +27,10 @@ const iLove: string = 'Pancakes';
 npx ng update @angular/core @angular/cli
 ```
 
-I’m looking to collaborate on **Whoa IDK** ***YET***. 😀
+# I’m looking to collaborate on
+- **Whoa IDK**
+- ***YET***.
+- 😀
 
 <!---
 ajakeydev/ajakeydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
